@@ -1,6 +1,6 @@
 FROM centos:centos7
 
-MAINTAINER duttadeep55@outlook.com
+MAINTAINER abhineetmishra123@gmail.com
 
 # Enable EPEL for Node.js
 RUN yum install -y epel-release
